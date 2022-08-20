@@ -4,6 +4,10 @@
 * They are many Advantages in Html they can be used to build websites.It is supported by all browsers.It can be integrated with other languages like CSS, JavaScript, etc...
 * HTML is the first language you should learn if you want to go for web development. HTML is a markup language that loads fast &  is also light weighted.
 
+
+![HTML-Introduction](https://user-images.githubusercontent.com/98481882/185762790-08c176a3-2039-4578-bc03-d44ede92fde3.jpg)
+
+
 # Features of HTML: 
 * It is easy to learn and easy to use..
 * Images, videos, and audio can be added to a web page...
