@@ -15,4 +15,4 @@
 * It is a markup language.
 
 # Important HTML Tags:
-link given
+![htmlImage](https://user-images.githubusercontent.com/98481882/185799728-47a5a4ec-d587-42df-be92-8ae942c60eaf.jpg)
